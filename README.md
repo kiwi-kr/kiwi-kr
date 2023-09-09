@@ -2,5 +2,4 @@
 - 🍵 Languages: English, Korean
 - 🍓 Software Engineering Student
 - 🥜 Working in Java 
-- 🧋 All my repository are private until the project is more fleshed... I'm nervous hehe
 - 🫐 Interested in Natrual Language Processing & Computational Linguistics 
