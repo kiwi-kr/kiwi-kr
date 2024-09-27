@@ -1,5 +1,2 @@
 - 🥝 Hi, I'm Kiwi 
-- 🍵 Languages: English, Korean
-- 🍓 Software Engineering Student
-- 🥜 Working in Java 
 - 🫐 Interested in Natrual Language Processing & Computational Linguistics 
